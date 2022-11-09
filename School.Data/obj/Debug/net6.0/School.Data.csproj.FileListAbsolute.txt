@@ -1,0 +1,14 @@
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\bin\Debug\net6.0\School.Data.deps.json
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\bin\Debug\net6.0\School.Data.runtimeconfig.json
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\bin\Debug\net6.0\School.Data.dll
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\bin\Debug\net6.0\School.Data.pdb
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.csproj.AssemblyReference.cache
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.AssemblyInfoInputs.cache
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.AssemblyInfo.cs
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.csproj.CoreCompileInputs.cache
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.dll
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\refint\School.Data.dll
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.pdb
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\School.Data.genruntimeconfig.cache
+H:\grand circus\code\CSharpBootcamp_June2022_AH\UnitSeven\Apis\School\School.Data\obj\Debug\net6.0\ref\School.Data.dll
